@@ -82,6 +82,15 @@ The output will be placed in the `dist/` directory.
 
 ---
 
+## 🚀 Deployment on GitHub Pages
+
+You need to configure your GitHub repository:
+
+1. Go to your repository on GitHub
+2. Navigate to Settings > Pages
+3. Under "Source", select GitHub Actions
+4. Make sure your default branch is main (or update the workflow to match your branch name)
+
 ## 📂 Project Structure
 
 ```bash
